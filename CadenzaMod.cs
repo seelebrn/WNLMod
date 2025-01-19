@@ -328,6 +328,8 @@ namespace NeverWorldENMod
             Plugin.log.LogInfo("TalkCondition_chkOkMakeChild.new : " + __result);
         }
     }
+
+    //Critical for pregnancy
     [HarmonyPatch(typeof(TalkEffect), "exeMakeChild")]
     class TalkCondition_exeMakeChild
     {
