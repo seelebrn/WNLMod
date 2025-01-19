@@ -462,8 +462,8 @@ namespace NeverWorldENMod
         }
     }
 
-    //EventCheck.Find // RankManager.EventLifeLeader // MatchData.UpdateMatch // EventCheck.AddResult // ScheduleSystem.EventFromTalk.IsMatch // ScheduleSystem.TestReserve // CalendarListCelle.EventObject // CalendarData___ctor_b__29_0
-    //TalkEffet.IsMakeEvent // get_Sex
+    //Also tested for Pregnancy : EventCheck.Find // RankManager.EventLifeLeader // MatchData.UpdateMatch // EventCheck.AddResult // ScheduleSystem.EventFromTalk.IsMatch // ScheduleSystem.TestReserve // CalendarListCelle.EventObject // CalendarData___ctor_b__29_0
+    //TalkEffet.IsMakeEvent // get_Sex etc etc.
 
 
 
